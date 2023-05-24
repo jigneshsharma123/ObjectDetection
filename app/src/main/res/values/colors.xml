@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="purple_200">#2196F3</color>
+    <color name="purple_500">#2196F3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Red">#e62c2f</color>
+    <color name="text_value_color">#C2F6F2</color>
+    <color name="text_Headervalue_color">#17A2B8</color>
+    <color name="dark_red">#ff0000</color>
+    <color name="orangebackground">#ff6613</color>
+    <color name="darkgrayforbackground">#17A2B8</color>
+    <color name="statusbar">#17A2B8</color>
+    <color name="actionbar">#17A2B8</color>
+    <color name="grey800">#FF424242</color>
+    <color name="blue">#0587B3</color>
+    <color name="gray">#DBDDDD</color>
+    <color name="Parrot">#17A2B8</color>
+    <color name="darkGray">#898A8A</color>
+
+    <color name="colorPrimaryLight">#15AC99</color>
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="grey">#484641</color>
+    <color name="black12">#1f000000</color>
+    <color name="cardview">#3BE3E3</color>
+    <color name="accent">#ff0091ea</color>
+    <color name="black87">#de000000</color>
+    <color name="black54">#8a000000</color>
+    <color name="black26">#42000000</color>
+    <color name="grayforbackground">#E8E7E7</color>
+    <color name="lightBlue">#2d98c9</color>
+    <color name="highlighto">#fae5eb</color>
+    <color name="highlighty">#e8d9ee</color>
+    <color name="textColor">#000000</color>
+    <color name="btn_textColor">#FFFFFF</color>
+    <color name="blue_new">#0CD2EC</color>
+    <color name="orange">#FB7328</color>
+    <color name="lightred">#FB555B</color>
+    <color name="red">#FD0116</color>
+    <color name="green">#11B38D</color>
+    <color name="yellow">#FAD053</color>
+
+    <color name="sudayback">#006ad6</color>
+    <color name="ogdback">#94d3ff</color>
+    <color name="lwiback">#af00ff59</color>
+    <color name="lwpback">#fa1f1f</color>
+    <color name="holidayback">#9d76ef</color>
+    <color name="drkGray">#928B8B</color>
+    <color name="transparent">#881C1B1B</color>
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of green -->
+    <!-- A light Holo shade of red -->
+    <color name="colorPrimaryReallyDark">#131B1F</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <color name="light_green_table_row">#04E604</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+</resources>
